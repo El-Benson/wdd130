@@ -4,8 +4,9 @@
   background-color: powderblue;
 }
 body {
-    font-family: “Ariel”, Helvetica,sans-serif; don't-size: 2em;
     background-color: #fcfbfb; 
+    font-family: “Ariel”, Helvetica,sans-serif; font-size: 2em;
+    
 }
 header {
     background-color:rgba(20,30,13, .7);
