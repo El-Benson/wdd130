@@ -4,6 +4,21 @@
   background-color: powderblue;
 }
 body {
+    background-color: #f79ce8;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+nav a {
+    text-decoration: none;
+    color: #489e1c;
+    text-align: center;
+    padding: 35px;
+}
 
 header {
     background-color:rgba(20,30,13, .7);
