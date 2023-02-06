@@ -46,6 +46,7 @@ nav a {
 }
 .book, .join{
     background-color: #920e0e; 
+    color: #fff;
     padding: 15px 30px;
     font-size: 18px;
     font-family: 'Merriweather', serif;
