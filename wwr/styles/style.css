@@ -69,13 +69,11 @@ nav a {
 
 }
 .msg p {
-    background-color: brown;
     color: antiquewhite;
     font-family: 'Merriweather', serif;
     padding-bottom: 15px;
 }
 .msg h2 {
-    background-color: brown;
     color: antiquewhite;
 }
 footer {
@@ -87,12 +85,11 @@ footer a {
     background-color: brown;
     color: azure;
     text-decoration: none;
-    padding: 5px 50px;
-    margin-top: 200px;
 }
-a:hover {
+footer p a:hover {
     background-color: rgb(46, 11, 11);
     color: rgb(221, 217, 217);
+    text decoration: underline;
 }
 .icon {
     width: 80px;
