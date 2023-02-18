@@ -5,7 +5,11 @@
 nav a{
     text-align: center;
 }
-#hero-msg h1, 
+#hero-msg h1{
+text-align: center;
+	  color: white;	
+}
+
 #hero-msg h2
 #hero-msg h3
 #hero-msg h4 {
@@ -37,8 +41,8 @@ body {
 header { 
 	display:grid;
 	grid-template-columns: 150px auto;
-    background-color: brown;
-    color: aliceblue;
+   background-color: brown;
+   color: aliceblue;
 }
 nav a:hover {
     background-color: rgb(52, 45, 38);
