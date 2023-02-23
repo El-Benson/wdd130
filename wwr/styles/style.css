@@ -25,6 +25,8 @@ main section{
     height: 725px;
     background-color: rgb(146, 14, 14);
     color: aliceblue;
+    grid-column: 1/11;
+    grid-row: 4/9;
 }
 body {
     background-color: rgb(58, 8, 93);
@@ -74,9 +76,9 @@ nav a {
     color: aliceblue;
     line-height: 1.5;
     padding: 35px;
-	  grid-column:6/10;
-	  grid-row: 6/7;
-	  box-shadow: 5px 5px 10px #6f7364;
+	grid-column:6/10;
+	grid-row: 6/7;
+	box-shadow: 5px 5px 10px #6f7364;
 
 }
 .msg p {
@@ -137,6 +139,19 @@ footer .social img {
 .rivers-card, .camping-card, .rapid-card {
     margin: 200px 0;
 }
+.rivers-card { 
+    grid-column: 2/4;
+    grid-row: 2;
+}
+.camping-card{ 
+    grid-column: 5/7;
+    grid-row: 2;
+}
+.rapids-card{ 
+    grid-column: 8/10;
+    grid-row: 2;
+}
+
 .card-img {
     border: 10px solid #cd7707;
     transition: transform .5s;
