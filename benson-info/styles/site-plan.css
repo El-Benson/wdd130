@@ -4,10 +4,10 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Noto+Serif&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #1f0a36   ;
+  --primary-color: #180838;
   --secondary-color: #edd42f ;
   --accent1-color: #278c18;
-  --accent2-color: #09470a;
+  --accent2-color: #7ca6a0;
 
   /* change the values below to your chosen font(s) */
   --heading-font: 'IM Fell French Canon SC', serif;
