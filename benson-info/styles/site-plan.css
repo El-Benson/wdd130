@@ -4,7 +4,7 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Noto+Serif&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #e3664d   ;
+  --primary-color: #1f0a36   ;
   --secondary-color: #edd42f ;
   --accent1-color: #400E32;
   --accent2-color: #09470a;
@@ -18,11 +18,11 @@ Fonts are separated by a | */
   --headline-color-on-color: #400E32; /* headlines on a colored background */ 
   --paragraph-color-on-white: #faf2f2; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #400E32; /* paragraph text on a colored background */ 
-  --paragraph-background-color:#09470a  ;
+  --paragraph-background-color:##1f0a36  ;
   --nav-link-color: #faf2f2;
   --nav-background-color:#09470a;
   --nav-hover-link-color: #09470a;
-  --nav-hover-background-color: #faf2f2;
+  --nav-hover-background-color: ##1f0a36;
 }
 
 
