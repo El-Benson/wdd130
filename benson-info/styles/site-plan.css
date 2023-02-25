@@ -2,6 +2,8 @@
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=Nato+Sans+Mono:wght@400;700&family=Tilt+Prism&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
   /* change the values below to your colors from your palette */
   --primary-color: #2e86ab;
   --secondary-color: #a23b72;
