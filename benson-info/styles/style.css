@@ -70,11 +70,11 @@ home-grid {
     width: 100%;
 }
 .road { 
-    grid-column: 8/10;
+    grid-column: 2/4;
     grid-row: 2;
 }
 .msg { 
-    grid-column: 8/10;
+    grid-column: 5/7;
     grid-row: 2;
 }
 .ladder { 
