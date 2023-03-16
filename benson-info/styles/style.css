@@ -77,18 +77,15 @@ home-grid {
     grid-column: 8/10;
     grid-row: 2;
 }
-.rapids-card{ 
+.ladder { 
     grid-column: 8/10;
     grid-row: 2;
 }
-.rapids-card{ 
+.road{ 
     grid-column: 8/10;
     grid-row: 2;
 }
-.rapids-card{ 
-    grid-column: 8/10;
-    grid-row: 2;
-}
+
 #backround {
     grid-column: ;
     grid-column: ;
