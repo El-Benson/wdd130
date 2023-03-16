@@ -90,4 +90,12 @@ home-grid {
     grid-column: ;
     grid-column: ;
 }
+footer {
+    background-color: #053c5e;
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
