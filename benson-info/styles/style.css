@@ -72,6 +72,9 @@ home-grid {
 .road { 
     grid-column: 2/4;
     grid-row: 2;
+    background-color: ;
+    padding: ; 
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .msg { 
     grid-column: 5/7;
