@@ -46,6 +46,7 @@ nav {
 #one-box {
     grid-column: 1/4;
     grid-row: 1/3;
+    z-index: -1;
 }
 #one-msg h4 {
     color: white;
