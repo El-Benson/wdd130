@@ -34,15 +34,10 @@ nav {
     justify-content: space-around;
 }
 
-nav a {
-  display: block;
-  color: #ff0022;
-  text-decoration: none;
-  padding: 1rem;
-}
-
-nav a:link, nav a:visited {
-  color: #ff0022;
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 
 
