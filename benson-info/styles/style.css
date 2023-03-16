@@ -29,18 +29,9 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
 }
-main img {
-  width: 150px;
-  height: auto;
-  float: left;
-  ...
-p {
-  padding: 25px;
-}
 nav {
-  background-color:#a31621;;
-  font-size: 1.2rem;
-  display: flex;
+    display: flex;
+    justify-content: space-around;
 }
 
 nav a {
