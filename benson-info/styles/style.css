@@ -9,7 +9,7 @@ palette */
   
   --headline-color-on-white: #a31621;   
   --headline-color-on-color: white; 
-  --paragraph-color-on-white: ##053c5e; 
+  --paragraph-color-on-white: #053c5e; 
   --paragraph-color-on-color: white;
   --paragraph-background-color: #053c5e ;
   --nav-link-color: #fff;
@@ -27,7 +27,8 @@ h1, h2, h3, h4 {
 }
 header {
   padding: 20px;
-  background-color: #41ead4;
+  background-color: #053c5e;
+  text-align: center;
 }
 main img {
   width: 150px;
