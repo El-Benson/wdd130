@@ -29,6 +29,11 @@ header {
   padding: 20px;
   background-color: #41ead4;
 }
+main img {
+  width: 150px;
+  height: auto;
+  float: left;
+  ...
 p {
   padding: 25px;
 }
@@ -52,6 +57,11 @@ nav a:link, nav a:visited {
 nav a:hover {
   color: #ff0022;
   background-color: #db222a;
+}
+footer {
+  margin-top: 1em;
+  border-top: 1px solid #204526;
+  text-align: center;
 }
 
 
