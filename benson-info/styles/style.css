@@ -22,18 +22,18 @@ main section{
 }
 #background {
     height: 725px;
-    background-color: rgb(146, 14, 14);
-    color: aliceblue;
+    background-color: 1f7a8c;
+    color: db222a;
     grid-column: 1/11;
     grid-row: 4/9;
 }
 body {
-    background-color: rgb(58, 8, 93);
+    background-color: a31621;
     color: aliceblue;
     font-size: 22px;
     margin: 0;
     padding: 0;
-    font-family: 'Merriweather', serif;
+    font-family: 'Nano', serif;
 }
 header { 
 	display:grid;
