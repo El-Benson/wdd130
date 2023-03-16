@@ -26,9 +26,8 @@ h1, h2, h3, h4 {
   color:#1f7a8c;
 }
 header {
-  padding: 20px;
-  background-color: #053c5e;
-  text-align: center;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 main img {
   width: 150px;
