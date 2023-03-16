@@ -61,4 +61,12 @@ nav {
     grid-row: 1/2;
     margin-top: 100px;
 }
+home-grid {
+  display: grid;
+  grid-template-columns: 10fr;
+  
+}
+.card-img, .road {
+    width: 100%;
+}
 
