@@ -69,4 +69,28 @@ home-grid {
 .card-img, .road {
     width: 100%;
 }
+.rapids-card{ 
+    grid-column: 8/10;
+    grid-row: 2;
+}
+.rapids-card{ 
+    grid-column: 8/10;
+    grid-row: 2;
+}
+.rapids-card{ 
+    grid-column: 8/10;
+    grid-row: 2;
+}
+.rapids-card{ 
+    grid-column: 8/10;
+    grid-row: 2;
+}
+.rapids-card{ 
+    grid-column: 8/10;
+    grid-row: 2;
+}
+#backround {
+    grid-column: ;
+    grid-column: ;
+}
 
