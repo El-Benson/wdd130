@@ -53,4 +53,14 @@ main section{
 main section img {
     box-sizing: border-box;
 }
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+
 
