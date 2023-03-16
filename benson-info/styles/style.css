@@ -69,11 +69,11 @@ home-grid {
 .card-img, .road {
     width: 100%;
 }
-.rapids-card{ 
+.road { 
     grid-column: 8/10;
     grid-row: 2;
 }
-.rapids-card{ 
+.msg { 
     grid-column: 8/10;
     grid-row: 2;
 }
