@@ -104,8 +104,11 @@ home-grid {
 }
 
 #backround {
-    grid-column: ;
-    grid-column: ;
+    grid-column:1/11 ;
+    grid-column: 4/9;
+    height:750px;
+    background-color:#db222a;
+    color:brown ;
 }
 footer {
     background-color: #053c5e;
