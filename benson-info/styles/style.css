@@ -40,6 +40,8 @@ main section{
 header {
     display: grid;
     grid-template-columns: 150px auto;
+    background-color: #db222a; 
+    color: brown; 
 }
 nav {
     display: flex;
