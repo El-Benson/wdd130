@@ -16,6 +16,10 @@ nav a{
 .button-box{
     text-align: center;
 }
+#logo_link {
+    padding-top: 5px;
+	justify-self: center;
+	align-self: center;
 nav a {
     color: 1f7a8c;
     text-decoration: none;
