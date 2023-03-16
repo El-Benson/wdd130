@@ -17,5 +17,41 @@ palette */
   --nav-hover-link-color: white;
   --nav-hover-background-color: #db222a;
 }
+body {
+  max-width: 960px;
+  padding: 20px;
+}
+h1, h2, h3, h4 {
+  font-family:'Noto Serif', serif;
+  color:#1f7a8c;
+}
+header {
+  padding: 20px;
+  background-color: #41ead4;
+}
+p {
+  padding: 25px;
+}
+nav {
+  background-color:#a31621;;
+  font-size: 1.2rem;
+  display: flex;
+}
+
+nav a {
+  display: block;
+  color: #ff0022;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+nav a:link, nav a:visited {
+  color: #ff0022;
+}
+
+nav a:hover {
+  color: #ff0022;
+  background-color: #db222a;
+}
 
 
