@@ -21,7 +21,19 @@ body {
   max-width: 960px;
   padding: 20px;
 }
-h1, h2, h3, h4 {
+#one-msg h1, 
+#one-msg h2, 
+#one-msg h3, 
+#one-msg h4 {
+      text-align: center;
+       color: white; 
+}
+.botten-box{
+  text-align: center;
+}
+main section{
+  text-align: center}
+}
   font-family:'Noto Serif', serif;
   color:#1f7a8c;
 }
