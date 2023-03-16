@@ -50,3 +50,6 @@ header {
 main section{
     text-align: left;
 }
+main section img {
+    box-sizing: border-box;
+}
