@@ -44,7 +44,11 @@ footer {
 	justify-content: space-around;
 	align-items: center;
 }
-
+footer p a:hover {
+    background-color: #053c5e;
+    color: brown;
+    text-decoration: underline;
+}
 
 
     
