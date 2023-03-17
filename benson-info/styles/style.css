@@ -94,6 +94,7 @@ home-grid {
 .ladder { 
     grid-column: 8/10;
     grid-row: 2;
+    background-color: #1f7abc; 
 }
 .road{ 
     grid-column: 8/10;
