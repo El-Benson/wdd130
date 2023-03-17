@@ -30,6 +30,9 @@ header {
    background-color: #db222a;
    color: brown;
 }
+#one-img{
+    width: 100%;
+}
 
 footer {
     background-color: #053c5e;
@@ -39,6 +42,7 @@ footer {
     margin-top: ;
     align-items: center;
 }
+
 
 
     
