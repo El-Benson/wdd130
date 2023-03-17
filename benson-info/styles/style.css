@@ -126,12 +126,12 @@ footer .social img {
     padding-top: 15px;
 }
 footer p a:hover {
-    background-color: rgb(46, 11, 11);
-    color: rgb(221, 217, 217);
+    background-color: 1f7abc;
+    color: brown;
     text-decoration: underline;
 }
 footer a {
-    color: azure;
+    color: brown;
     text-decoration: none;
 
 }
