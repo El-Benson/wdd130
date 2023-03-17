@@ -120,4 +120,13 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+nav a:hover {
+    background-color: #1f7abc;
+    color: brown;
+}
+nav a {
+    color: #f7abc;
+    text-decoration: none;
+    padding: 35px;
+}
 
