@@ -33,6 +33,11 @@ nav a{
     font-size: 2em;
     margin-top: 10px;
 }
+.home-grid {
+    display:grid;
+    grid-template-columns: repeat(10,1fr);
+}
+
 body {
     background-color: #1f7abc;
     color: brown;
