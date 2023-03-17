@@ -52,6 +52,10 @@ footer p a:hover {
 footer a {
     color: brown;
     text-decoration: none;
+}
+footer .social img {
+    padding-top: 15px;
+}
 
 
     
