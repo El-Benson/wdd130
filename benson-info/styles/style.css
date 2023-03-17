@@ -1,21 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Noto+Serif&display=swap');
-palette */
-  --primary-color: #1f7a8c ;
-  --secondary-color: #db222a ;
-  --accent1-color: #bfdbf7;
-  --accent2-color: #a31621;
-
-  
-  
-  --headline-color-on-white: #a31621;   
-  --headline-color-on-color: white; 
-  --paragraph-color-on-white: #053c5e; 
-  --paragraph-color-on-color: white;
-  --paragraph-background-color: #053c5e ;
-  --nav-link-color: #fff;
-  --nav-background-color: #a31621;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #db222a;
 }
 body {
   max-width: 960px;
@@ -49,8 +32,8 @@ nav {
 
 #logo_link {
     padding-top: 5px;
-    justify-self: center;
-    align-self: center;
+    justify-self: left;
+    align-self: left;
 }
 #one {
     display: grid;
