@@ -54,6 +54,12 @@ header {
     width: 100%;
 }
 
+main section{
+    text-align: center;
+}
+main section img {
+    box-sizing: border-box;
+}
 footer {
     background-color: #053c5e;
     color: brown;
