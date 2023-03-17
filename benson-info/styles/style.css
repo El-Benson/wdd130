@@ -17,6 +17,10 @@ nav a{
 .button-box{
     text-align: center;
 }
+#logo_link {
+    padding-top: 5px;
+	justify-self: center;
+	align-self: center;
 .logo {
     width: 80px;
 }
