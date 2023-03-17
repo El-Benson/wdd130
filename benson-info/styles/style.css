@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Noto+Serif&display=swap');
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav a{
+    text-align: center;
+}
+}
+#one-msg h1,
+#one-msg h2,
+#one-msg h3,
+#one-msg h4 {
+    text-align: center;
+	  color: white;
+}
