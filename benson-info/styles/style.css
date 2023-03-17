@@ -5,7 +5,8 @@
 }
 nav a{
     text-align: center;
-    justify-item: center; 
+    justify-item: center;
+    justify-self: stretch ; 
 }
 }
 #one-msg h1,
