@@ -13,6 +13,19 @@ nav {
 	display: flex;
 	justify-content: space-around;
 }
+header { 
+   display: grid;
+   grid-template-columns: 150px auto;
+   background-color: #db222a;
+   color: brown;
+   width: 300%;
+}
+main section{
+    text-align: center;
+}
+main section img {
+    box-sizing: border-box;
+}
 .one {
   grid-area: main;
 }
@@ -31,7 +44,7 @@ nav {
 
 .container {
   display: grid;
-  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-columns: 100px 100px 50px 50px;
   grid-template-rows: auto;
   grid-template-areas: 
     "header header header header"
