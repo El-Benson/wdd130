@@ -49,6 +49,9 @@ footer p a:hover {
     color: brown;
     text-decoration: underline;
 }
+footer a {
+    color: brown;
+    text-decoration: none;
 
 
     
