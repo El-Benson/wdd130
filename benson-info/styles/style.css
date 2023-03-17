@@ -1,5 +1,17 @@
-.{
-  grid-area: header;
+nav a{
+    display: grid; 
+    text-align: center;
+    justify-item: center;
+    justify-self: stretch ; 
+    font-sixe:50px; 
+}
+nav a:hover {
+    background-color: #bfdbf7 ;
+    color: brown;
+}
+nav {
+	display: flex;
+	justify-content: space-around;
 }
 .one {
   grid-area: main;
