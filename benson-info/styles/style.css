@@ -56,7 +56,7 @@ header {
 }
 #one-img{
     display: grid;
-    grid-template-columns: 3/7;
+    grid-template-columns: 2/7;
     grid-template-rows: 7/10;
     width: 300%;
 }
@@ -75,9 +75,9 @@ main section img {
 }
 .road {
     display: grid;
-    grid-template-columns: 3/7;
+    grid-template-columns: 2/7;
     grid-template-rows: 7/10;
-    width: 200%;
+    width: 300%;
 }
 .k {
     display: grid;
