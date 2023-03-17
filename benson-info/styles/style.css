@@ -10,7 +10,10 @@ nav a{
     justify-self: stretch ; 
     font-sixe:50px; 
 }
-
+nav a:hover {
+    background-color: #bfdbf7 ;
+    color: brown;
+}
 }
 #one-msg h1,
 #one-msg h2,
