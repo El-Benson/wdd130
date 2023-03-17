@@ -71,7 +71,7 @@ main section img {
     display: grid;
     grid-template-columns: 3/7;
     grid-template-rows: 7/10;
-    width: 200%;
+    width: 300%;
 }
 .road {
     display: grid;
@@ -83,7 +83,7 @@ main section img {
     display: grid;
     grid-template-columns: 3/7;
     grid-template-rows: 7/10;
-    width: 200%;
+    width: 100%;
 }
 .msg {
     background-color: #011627;
