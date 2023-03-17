@@ -14,6 +14,10 @@ nav a:hover {
     background-color: #bfdbf7 ;
     color: brown;
 }
+nav {
+	display: flex;
+	justify-content: space-around;
+}
 }
 #one-msg h1,
 #one-msg h2,
