@@ -5,6 +5,7 @@
 }
 nav a{
     text-align: center;
+    justify-item: center; 
 }
 }
 #one-msg h1,
@@ -45,8 +46,11 @@ body {
     font-family: 'Noto Serif', serif
 }
 header { 
+   display: grid;
+   grid-template-columns: 150px auto;
    background-color: #db222a;
    color: brown;
+   
 }
 #one-img{
     display: grid;
