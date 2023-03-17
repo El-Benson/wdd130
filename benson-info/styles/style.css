@@ -122,6 +122,19 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+footer .social img {
+    padding-top: 15px;
+}
+footer p a:hover {
+    background-color: rgb(46, 11, 11);
+    color: rgb(221, 217, 217);
+    text-decoration: underline;
+}
+footer a {
+    color: azure;
+    text-decoration: none;
+
+}
 nav a:hover {
     background-color: #1f7abc;
     color: brown;
