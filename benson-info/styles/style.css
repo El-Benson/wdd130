@@ -78,6 +78,22 @@ main section img {
     grid-template-rows: 7/10;
     width: 200%;
 }
+.msg {
+    background-color: #011627;
+    color: aliceblue;
+    line-height: 1.5;
+    padding: 35px;
+	
+
+}
+.msg p {
+    color: bd222a;
+    font-family: 'Nano', serif;
+    padding-bottom: 15px;
+}
+.msg h2 {
+    color: db222a;
+}
 footer {
     background-color: #053c5e;
     color: brown;
