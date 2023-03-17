@@ -50,6 +50,7 @@ header {
    grid-template-columns: 150px auto;
    background-color: #db222a;
    color: brown;
+   width: 150%;
    
 }
 #one-img{
