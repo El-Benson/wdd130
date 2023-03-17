@@ -80,7 +80,7 @@ home-grid {
 .road { 
     grid-column: 2/4;
     grid-row: 2;
-    background-color: ;
+    background-color: #1f7abc ;
    
 }
 .msg { 
@@ -95,6 +95,7 @@ home-grid {
     grid-column: 8/10;
     grid-row: 2;
     background-color: #1f7abc; 
+    box-shadow: brown ;
 }
 .road{ 
     grid-column: 8/10;
