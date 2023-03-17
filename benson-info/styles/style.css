@@ -26,6 +26,8 @@ nav {
     text-align: center;
 	  color: white;
 }
+
+}
 .button-box{
     text-align: center;
 }
@@ -98,8 +100,7 @@ main section img {
     width: 100%;
 }
 
-h3 {
-    text-align: center;
+
 }
 footer {
     background-color: #053c5e;
