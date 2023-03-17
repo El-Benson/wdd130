@@ -41,8 +41,8 @@ body {
     background-color: #1f7abc;
     color: brown;
     font-size: 22px;
-    margin: 0;
-    padding: 0;
+    margin: 0 auto;
+    padding: auto;
     font-family: 'Noto Serif', serif
 }
 header { 
@@ -50,14 +50,14 @@ header {
    grid-template-columns: 150px auto;
    background-color: #db222a;
    color: brown;
-   width: 150%;
+   width: 300%;
    
 }
 #one-img{
     display: grid;
     grid-template-columns: 3/7;
     grid-template-rows: 7/10;
-    width: 150%;
+    width: 300%;
 }
 
 main section{
@@ -73,6 +73,12 @@ main section img {
     width: 200%;
 }
 .road {
+    display: grid;
+    grid-template-columns: 3/7;
+    grid-template-rows: 7/10;
+    width: 200%;
+}
+.k {
     display: grid;
     grid-template-columns: 3/7;
     grid-template-rows: 7/10;
