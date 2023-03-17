@@ -14,3 +14,26 @@ nav a{
     text-align: center;
 	  color: white;
 }
+.button-box{
+    text-align: center;
+}
+#background {
+    height: 725px;
+    background-color: #a31621;
+    color: brown;
+}
+body {
+    background-color: #1f7abc;
+    color: brown;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif
+}
+header { 
+   background-color: #db222a;
+   color: brown;
+}
+
+
+    
