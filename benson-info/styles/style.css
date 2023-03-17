@@ -46,6 +46,7 @@ body {
     margin: 0 auto;
     padding: auto;
     font-family: 'Noto Serif', serif
+    width: 300px;
 }
 header { 
    display: grid;
