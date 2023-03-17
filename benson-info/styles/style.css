@@ -101,6 +101,9 @@ main section img {
 .msg h2 {
     color: db222a;
 }
+h3 {
+    text-align: center;
+}
 footer {
     background-color: #053c5e;
     color: brown;
