@@ -17,11 +17,7 @@ nav a{
 .button-box{
     text-align: center;
 }
-#background {
-    height: 725px;
-    background-color: #a31621;
-    color: brown;
-}
+
 body {
     background-color: #1f7abc;
     color: brown;
