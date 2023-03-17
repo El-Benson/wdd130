@@ -1,137 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Noto+Serif&display=swap');
-#content{
-    max-width: 1600px;
-    margin: 0 auto;
+.{
+  grid-area: header;
 }
-nav a{
-    display: grid; 
-    text-align: center;
-    justify-item: center;
-    justify-self: stretch ; 
-    font-sixe:50px; 
+.one {
+  grid-area: main;
 }
-nav a:hover {
-    background-color: #bfdbf7 ;
-    color: brown;
-}
-nav {
-	display: flex;
-	justify-content: space-around;
-}
-}
-#one-msg h1,
-#one-msg h2,
-#one-msg h3,
-#one-msg h4 {
-    text-align: center;
-	  color: white;
-}
-
-}
-.button-box{
-    text-align: center;
-}
-
-.logo {
-    width: 80px;
-}
-.icon {
-    width: 80px;
-    padding-top: 15px;
-}
-.home-title{
-    font-family: 'Nano', serif;
-    font-size: 2em;
-    margin-top: 10px;
-    text-align: center; 
-}
-.home-grid {
-    display:grid;
-    grid-template-columns: 10fr;
-    
-}
-
-body {
-    background-color: #1f7abc;
-    color: brown;
-    font-size: 22px;
-    margin: 0 auto;
-    padding: auto;
-    font-family: 'Noto Serif', serif
-    width: 300px;
-}
-header { 
-   display: grid;
-   grid-template-columns: 150px auto;
-   background-color: #db222a;
-   color: brown;
-   width: 300%;
-   
-}
-#one-img{
-    display: grid;
-    grid-template-columns: 2/7;
-    grid-template-rows: 7/10;
-    width: 300%;
-}
-
-main section{
-    text-align: center;
-}
-main section img {
-    box-sizing: border-box;
-}
-. ladder {
-    display: grid;
-    grid-template-columns: 15/30;
-    grid-template-rows: 7/10;
-    width: 300%;
-}
-.road {
-    display: grid;
-    grid-template-columns: 15/30;
-    grid-template-rows: 7/10;
-    width: 300%;
+.road{
+  grid-area: main;
 }
 .k {
-    display: grid;
-    grid-template-columns: 3/7;
-    grid-template-rows: 7/10;
-    width: 100%;
+  grid-area: main;
+}
+.{
+  grid-area: sidebar;
+}
+.ladder {
+  grid-area: footer;
 }
 
-
+.container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "header header header header"
+    "main”
+    “main . sidebar"
+    “main”
+    "footer footer footer footer";
 }
-footer {
-    background-color: #053c5e;
-    color: brown;
-    font-size: 1.2rem;
-    padding: 25px 50px;
-    margin-top: 200px;
-    display:flex;
-	justify-content: space-around;
-	align-items: center;
-}
-footer p a:hover {
-    background-color: #053c5e;
-    color: brown;
-    text-decoration: underline;
-}
-footer a {
-    color: brown;
-    text-decoration: none;
-}
-footer .social img {
-    padding-top: 15px;
-}
-footer Facebook {
-    width:30px;
-}
-
-footer Instagram {
-    width:30px;
-}
-footer twitter {
-    width:30px;
-}
- 
