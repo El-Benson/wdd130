@@ -1,8 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Noto+Serif&display=swap');
+#content{
+  max-width:1600px
+  margin: 0 auto;
+}
+nav a{ 
+  text-align: center; 
 }
 body {
+  background-color: #a31621; 
+  color: #1f7abc;
   max-width: 960px;
   padding: 20px;
+  font-family: ’Nano, serif;
+  font-size: 22px;
+  
 }
 #one-msg h1, 
 #one-msg h2, 
