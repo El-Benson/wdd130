@@ -52,8 +52,8 @@ body {
 .one {
   background-color: #f9564f;
   width: 200%;
-  grid-column: 2/7;
-  grid-row: 5/8;
+  grid-template-colums: 150px;
+  grid-row-template-rows: 150px;
   box-shadow: 5px 5px 10px #6f7364;
 }
 .one img {
