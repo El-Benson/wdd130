@@ -73,10 +73,12 @@ body {
    box-shadow: 5px 5px 10px #6f7364; 
 }
 .road img {
-    float: left;
+  display: block;
+  width: 100%;
+  height: auto;
 }
 road p {
-   text-align: center ;
+   float: center ;
 }
 .k {
   background-color: #f9564f;
