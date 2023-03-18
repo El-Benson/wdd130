@@ -135,6 +135,7 @@ footer {
     padding: ;
     margin-top: ;
     align-items: right;
+    text-align: center; 
 }
 footer .social img {
     padding-top: 15px;
