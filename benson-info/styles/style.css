@@ -14,7 +14,9 @@ nav a{
     text-align: center;
     justify-item: center;
     justify-self: stretch ; 
-    font-sixe:50px; 
+    font-size:50px; 
+    text-decoration: none;
+    padding: 35px;
 }
 nav a:hover {
     background-color: #bfdbf7 ;
