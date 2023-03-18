@@ -1,3 +1,6 @@
+.logo {
+    width: 80px;
+}
 nav a{
     display: grid; 
     text-align: center;
@@ -40,29 +43,29 @@ header {
    background-color: #7b1e7a;
    color: brown;
 }
-.hero {
+.one {
   position: relative;
 }
-.hero img {
+.one img {
   display: block;
   width: 100%;
   height: auto;
 }
-.hero p{
+.one p{
  Float: right;
 }
-.hero h1{
+.one h1{
    position: absolute;
 }
-.article {
+.road {
    background-color: #b33f62;
    position: absolute; 
 }
-.article img {
-    float: right;
+.road img {
+    float: left;
 }
-article p {
-   float: ;
+road p {
+   text-align: center ;
 }
 
 footer {
