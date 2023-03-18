@@ -58,7 +58,7 @@ body {
 
 .one {
   background-color: #f9564f;
-  width: 200%;
+  width: 300%;
   grid-template-colums: 150px;
   grid-row-template-rows: 150px;
   box-shadow: 5px 5px 10px #6f7364;
@@ -75,7 +75,7 @@ body {
 
 .road {
    background-color: #b33f62;
-   width: 200%;
+   width: 300%;
    grid-column: 2/7;
    grid-row: 5/8;
    box-shadow: 5px 5px 10px #6f7364; 
@@ -91,7 +91,7 @@ road p {
 }
 .k {
   background-color: #f9564f;
-  width: 200%;
+  width: 300%;
   grid-column: 2/7;
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
@@ -108,7 +108,7 @@ road p {
 
 .ladder  {
   background-color: #f9564f;
-  width: 200%;
+  width: 300%;
   grid-column: 2/7;
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
@@ -124,8 +124,12 @@ road p {
 }
 
 footer {
+    display: grid;
+    grid-template-columns: 150px auto;
+    grid-template-rows: 150px auto;
     background-color: #0c0a3e;
     color: aliceblue;
+    width: 300%; 
     font-size: 1.2rem;
     padding: ;
     margin-top: ;
