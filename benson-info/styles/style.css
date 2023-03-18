@@ -54,6 +54,7 @@ body {
 header { 
    display: grid;
    grid-template-columns: 150px auto;
+   grid-template-rows: 150px auto;
    background-color: #7b1e7a;
    color: brown;
 }
