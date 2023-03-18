@@ -2,10 +2,10 @@
     width: 80px;
 }
 }
-#h1,
-#h2,
-#h3,
-#h4 {
+#one-msg h1,
+#one-msg h2,
+#one-msg h3,
+#one-msg h4 {
     text-align: center;
 	  color: white;
 }
