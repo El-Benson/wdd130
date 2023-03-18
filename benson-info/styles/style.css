@@ -38,11 +38,7 @@ main section{
 main section img {
     box-sizing: border-box;
 }
-#background {
-    height: 725px;
-    background-color: #ff0022;
-    color: ;
-}
+
 body {
     background-color: #f9564f;
     color: aliceblue;
