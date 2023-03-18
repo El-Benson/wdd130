@@ -35,7 +35,7 @@ header {
    display: grid;
    grid-template-columns: 150px auto;
    grid-template-rows: 150px auto;
-   background-color: #a31621;
+   background-color: #bd222a;
    color: brown;
    width: 300%;
    
@@ -49,7 +49,7 @@ main section img {
 
 body {
     background-color: #1f7a8c;
-    color: aliceblue;
+    color: #db222a;
     font-size: 22px;
     margin: 0;
     padding: 0;
