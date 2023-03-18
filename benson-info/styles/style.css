@@ -1,6 +1,14 @@
 .logo {
     width: 80px;
 }
+}
+#h1,
+#h2,
+#h3,
+#h4 {
+    text-align: center;
+	  color: white;
+}
 nav a{
     display: grid; 
     text-align: center;
@@ -52,11 +60,9 @@ header {
   height: auto;
 }
 .one p{
- Float: right;
+ Float: center;
 }
-.one h1{
-   position: absolute;
-}
+
 .road {
    background-color: #b33f62;
    position: absolute; 
@@ -66,6 +72,28 @@ header {
 }
 road p {
    text-align: center ;
+}
+.k {
+  position: relative;
+.k img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.k p{
+ Float: right;
+}
+
+.ladder  {
+  position: relative;
+}
+.ladder img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.ladder p{
+ Float: center;
 }
 
 footer {
