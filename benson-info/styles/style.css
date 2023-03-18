@@ -38,6 +38,8 @@ header {
    background-color: #bd222a;
    color: brown;
    width: 300%;
+   padding: 20px;
+   margin: 10px; 
    
 }
 main section{
@@ -64,6 +66,7 @@ body {
   grid-row-template-rows: 150px;
   box-shadow: 5px 5px 10px #6f7364;
   padding: 15px 30px;
+  margin: 10px;
 }
 .one img {
   display: block;
@@ -81,6 +84,7 @@ body {
    grid-row: 5/8;
    box-shadow: 5px 5px 10px #6f7364; 
    padding: 15px 30px;
+   margin: 10px;
 }
 .road img {
   display: block;
@@ -97,6 +101,7 @@ road p {
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
   padding: 15px 30px;
+  margin: 10px;
 }
 .k img {
   display: block;
@@ -114,6 +119,7 @@ road p {
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
   padding: 15px 30px;
+  margin: 10px;
 }
 .ladder img {
   display: block;
@@ -139,6 +145,7 @@ footer {
 }
 footer .social img {
     padding-top: 15px;
+    margin: 10px;
     width: 50px;
     align-items: right;
     margin: 0;
