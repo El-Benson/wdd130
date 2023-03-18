@@ -51,7 +51,7 @@ body {
 
 .one {
   background-color: #f9564f;
-  width: 100%;
+  width: 200%;
   grid-column: 2/7;
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
@@ -67,7 +67,7 @@ body {
 
 .road {
    background-color: #b33f62;
-   width: 100%;
+   width: 200%;
    grid-column: 2/7;
    grid-row: 5/8;
    box-shadow: 5px 5px 10px #6f7364; 
@@ -80,7 +80,7 @@ road p {
 }
 .k {
   background-color: #f9564f;
-  width: 100%;
+  width: 200%;
   grid-column: 2/7;
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
@@ -96,7 +96,7 @@ road p {
 
 .ladder  {
   background-color: #f9564f;
-  width: 100%;
+  width: 200%;
   grid-column: 2/7;
   grid-row: 5/8;
   box-shadow: 5px 5px 10px #6f7364;
