@@ -12,9 +12,10 @@
 nav a{
     display: grid; 
     text-align: center;
+    text-color: #000; 
     justify-item: center;
     justify-self: stretch ; 
-    font-size:50px; 
+    font-size:30px; 
     text-decoration: none;
     padding: 35px;
 }
