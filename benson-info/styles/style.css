@@ -25,49 +25,51 @@ main section{
 }
 main section img {
     box-sizing: border-box;
+body {
+    background-color: #f9564f;
+    color: aliceblue;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif
+
 }
-.one {
-  grid-area: main;
+header { 
+   display: grid;
+   grid-template-columns: 150px auto;
+   background-color: #7b1e7a;
+   color: brown;
 }
-.road{
-  grid-area: main;
+.hero {
+  position: relative;
 }
-.k {
-  grid-area: main;
+.hero img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
-.{
-  grid-area: sidebar;
+.hero p{
+ Float: right;
 }
-.ladder {
-  grid-area: footer;
+.hero h1{
+   position: absolute;
+}
+.article {
+   background-color: #b33f62;
+   position: absolute; 
+}
+.article img {
+    float: right;
+}
+article p {
+   float: ;
 }
 
-.container {
-  display: grid;
-  grid-template-columns: 100px 100px 50px 50px;
-  grid-template-rows: auto;
-  grid-template-areas: 
-    "header header header header"
-    "main”
-    “main . sidebar"
-    “main”
-    "footer footer footer footer";
-}
-
-.button-box{
-    text-align: center;
-}
-
-.logo {
-    width: 80px;
-}
-.icon {
-    width: 80px;
-    padding-top: 15px;
-}
-.home-title{
-    font-family: 'Nano', serif;
-    font-size: 2em;
-    margin-top: 10px;
-    text-align: center; 
+footer {
+    background-color: #0c0a3e;
+    color: aliceblue;
+    font-size: 1.2rem;
+    padding: ;
+    margin-top: ;
+    align-items: right;
 }
