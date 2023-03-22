@@ -254,7 +254,7 @@ button {
 
 .sidenav {
   height: 100%;
-  width: 180px;
+  width: 160px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -276,7 +276,7 @@ button {
 }
 
 .main {
-  margin-left: 160px; 
+  margin-left: 130px; 
   font-size: 28px;
   padding: 0px 10px;
 }
