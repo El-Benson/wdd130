@@ -6,10 +6,10 @@
     width: 80px;
 }
 }
-#one-msg h1,
-#one-msg h2,
-#one-msg h3,
-#one-msg h4 {
+#eye-msg h1,
+#eye-msg h2,
+#eye-msg h3,
+#eye-msg h4 {
     text-align: center;
 	  color: white;
 }
@@ -31,6 +31,7 @@ nav {
 	display: flex;
 	justify-content: space-around;
 }
+
 header { 
    display: grid;
    grid-template-columns: 150px auto;
@@ -59,7 +60,7 @@ body {
 
 }
 
-.one {
+.eye {
   background-color: #053c5e;
   width: 300%;
   grid-template-colums: 150px;
@@ -68,16 +69,16 @@ body {
   padding: 15px ;
   margin: 10px;
 }
-.one img {
+.eye img {
   display: block;
   width: 100%;
   height: auto;
 }
-.one p{
+.eye p{
  Float: center;
 }
 
-.road {
+.three {
    background-color: #db222a;
    width: 100%;
    grid-column: 2/7;
@@ -86,33 +87,17 @@ body {
    padding: 15px ;
    margin: 10px;
 }
-.road img {
+.three img {
   display: block;
   width: 100%;
   height: auto;
 }
-road p {
+three p {
    float: center ;
 }
-.k {
-  background-color: #053c5e;
-  width: 300%;
-  grid-column: 2/7;
-  grid-row: 5/8;
-  box-shadow: 5px 5px 10px #6f7364;
-  padding: 15px ;
-  margin: 10px;
-}
-.k img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-.k p{
- Float: center ;
-}
 
-.ladder  {
+
+.flag  {
   background-color: #a31621;
   width: 300%;
   grid-column: 2/7;
@@ -121,12 +106,12 @@ road p {
   padding: 15px ;
   margin: 10px;
 }
-.ladder img {
+.flag img {
   display: block;
   width: 100%;
   height: auto;
 }
-.ladder p{
+.flag p{
  Float: center;
 }
 
