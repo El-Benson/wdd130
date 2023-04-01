@@ -2,6 +2,28 @@
     
     margin: 0 auto;
 }
+.go {
+  grid-area: main;
+}
+.tech {
+  grid-area: main;
+}
+.stairs {
+  grid-area: sidebar;
+}
+.happy {
+  grid-area: main;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 200px 50px 50px 200px;
+  grid-template-rows: auto, 100, 100,auto;
+  grid-template-areas: 
+    "main"
+    "main" .sidebar"
+    "main";
+}
 .logo {
     width: 80px;
 }
