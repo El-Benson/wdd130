@@ -42,6 +42,13 @@ header {
    margin: 10px; 
    
 }
+.background {
+    height: 725px;
+    background-color: rgb(146, 14, 14);
+    color: aliceblue;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
 main section{
     text-align: center;
 }
