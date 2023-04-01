@@ -37,7 +37,7 @@ header {
    grid-template-rows: 150px auto;
    background-color: #bd222a;
    color: brown;
-   width: 150px;
+   width: 150%;
    padding: 20px;
    margin: 10px; 
    
