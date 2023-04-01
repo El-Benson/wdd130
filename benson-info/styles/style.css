@@ -44,6 +44,7 @@ header {
 }
 .background {
     height: 725px;
+    width: 200px
     background-color: rgb(146, 14, 14);
     color: aliceblue;
     grid-column: 1/11;
