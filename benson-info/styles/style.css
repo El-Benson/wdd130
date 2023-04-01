@@ -171,38 +171,4 @@ footer p a:hover {
     text-decoration: underline;
 }
 
-@media screen and (max-width: 900px) {
-    .one, .home-grid {
-        display: block;
-        height: auto;
-    }
-    nav, footer {
-        flex-direction: column;
-    }
-    nav a {
-        display: block;
-        padding: 15px;
-    }
-    .one {
-        margin-top: 0;
-    }
-    #hero-msg {
-        margin-top: 0;
-    }
-    #one-msg h1,h2,h3,h4 {
-        display: none;
-    }
-    
-    }
-    .road, .k, .ladder { 
-        margin: 50px auto;
-        width: 60%;
-    }
-    .background {
-        display: none;
-    }
-    
-    footer {
-        margin-top: 25px;
-    }
-}
+
