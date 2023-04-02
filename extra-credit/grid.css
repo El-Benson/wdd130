@@ -9,6 +9,7 @@ START grid layout extra credit
   display: grid;
   padding-top: 2em;
   text-align: center;
+  
  
   
 }
@@ -19,12 +20,14 @@ START grid layout extra credit
 
 .grid2 {
   padding: 1rem;
+  text-align: center;
   
 }
 .grid2 h2 {
   
 }
 .grid3 {
+   text-align: center;
   
 }
 
@@ -33,6 +36,7 @@ START grid layout extra credit
 }
 
 .grid4 {
+   text-align: center;
   
 }
 
