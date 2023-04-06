@@ -101,7 +101,7 @@ body {
    display: flex; 
    align-items: left; 
    justify-content: left;
-   text-algin; center; 
+   text-algin; left; 
 }
 .tech img {
   display: block;
@@ -143,6 +143,7 @@ body {
   box-shadow: 5px 5px 10px #6f7364;
   padding: 15px ;
   margin: 10px;
+  position: relative;
 }
 .happy img {
   display: block;
