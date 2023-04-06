@@ -71,10 +71,10 @@ box-sizing: border-box;
 }
 
 
-#one-msg h1,
-#one-msg h2,
-#one-msg h3,
-#one-msg h4 {
+#go-msg h1,
+#go-msg h2,
+#go-msg h3,
+#go-msg h4 {
 text-align: center;
 color: white;
 }
