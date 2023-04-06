@@ -97,6 +97,7 @@ body {
    display: felx; 
    align-item: center; 
    justify-content: center; 
+   float: center; 
    
 }
 .three img {
