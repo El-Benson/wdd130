@@ -80,6 +80,11 @@ body {
 .eye p{
  Float: center;
 }
+section {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+}
 
 .three {
    background-color: #053c5e;
