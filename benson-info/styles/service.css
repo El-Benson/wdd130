@@ -101,6 +101,11 @@ box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
 width: 50%; 
+height: 200vh; 
+display:flex;
+position: relative; 
+float: right; 
+
 }
 .tech img {
 display: block;
@@ -117,6 +122,10 @@ grid-row: 5/8;
 box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
+height: 200vh;
+display: flex;
+position: absolute;
+float: left; 
 }
 .stairs img {
 display: block;
