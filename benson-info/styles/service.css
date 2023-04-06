@@ -114,7 +114,7 @@ body {
    display: felx; 
    align-item: center; 
    float: left; 
-   position: relative;
+   
 }
 .tech img {
   display: block;
@@ -140,7 +140,7 @@ body {
    display: felx; 
    align-item: center; 
    float: right; 
-   position: absolute;  
+   
    
    
 }
