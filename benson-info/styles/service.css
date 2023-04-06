@@ -104,7 +104,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
-   float: left; 
+   
    
 }
 .tech img {
@@ -132,7 +132,7 @@ body {
    display: felx; 
    align-item: center; 
    justify-content: center; 
-   float: center;  
+    
 }
 .stairs img {
   display: block;
