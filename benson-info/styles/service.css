@@ -89,11 +89,13 @@ body {
 }
 
 .container {
+    width: 200% 
     background-color: #ffffff;
     display: flex; 
     align-content: center; 
     justify-content: center; 
     position: relative; 
+    margin: 10px; 
 } 
 
 .tech {
@@ -110,7 +112,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
-   float: right; 
+   float: left; 
    position: relative;
 }
 .tech img {
@@ -137,7 +139,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
-   float: left; 
+   float: right; 
    position: absolute; 
    
    
