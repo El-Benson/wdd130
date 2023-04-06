@@ -108,6 +108,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
+   float: right; 
 }
 .tech img {
   display: block;
@@ -133,6 +134,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
+   float: left; 
    
    
 }
