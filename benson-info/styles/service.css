@@ -108,6 +108,7 @@ margin-left: auto;
     backgrond-color: gray; 
     justify-content: center; 
     flaot: center;
+    margin: 0 auto;
 }
 .tech img {
 display: block;
