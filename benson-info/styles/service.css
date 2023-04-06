@@ -1,4 +1,180 @@
+#body {
+background-color: #bfdbf7;
+color: #ffffff;
+font-size: 22px;
+margin: 0;
+padding: 0;
+font-family: 'Noto Serif', serif
+
+}
+
+h1, h2, h3, h4, h5 h6 {
+font-family: 'Tilt Prism', cursive;
+}
+
 #content{
+margin: 0 auto;
+max-width: 1600px;
+}
+
+#logo_link {
+justify-self: center;
+}
+
+.logo {
+width: 80px;
+}
+}
+
+header {
+background-color: #bd222a;
+color: brown;
+display: grid;
+grid-template-columns: 150px auto;
+grid-template-rows: 150px auto;
+background-color: #bd222a;
+align-items: center;
+
+
+}
+nav {
+display: flex;
+justify-content: space-around;
+}
+nav a{
+display: grid;
+text-align: center;
+color: #000;
+justify-self: stretch ;
+font-size:1.5em;
+text-decoration: none;
+padding: 35px;
+}
+nav a:hover {
+background-color: #bfdbf7 ;
+color: brown;
+}
+
+
+.background {
+height: 725px;
+width: 200px
+background-color: rgb(146, 14, 14);
+color: aliceblue;
+grid-column: 1/11;
+grid-row: 4/9;
+}
+main section{
+text-align: center;
+}
+main section img {
+box-sizing: border-box;
+}
+
+
+#one-msg h1,
+#one-msg h2,
+#one-msg h3,
+#one-msg h4 {
+text-align: center;
+color: white;
+}
+
+.go {
+background-color: #053c5e;
+box-shadow: 5px 5px 10px #6f7364;
+padding: 15px ;
+margin: 10px;
+}
+.go img {
+display: block;
+width: 100%;
+height: auto;
+}
+.ho p{
+Float: center;
+}
+
+.tech {
+background-color: #db222a;
+box-shadow: 5px 5px 10px #6f7364;
+padding: 15px ;
+margin: 10px;
+width: 50%; 
+}
+.tech img {
+display: block;
+width: 100%;
+height: auto;
+}
+tech p {
+float: center ;
+}
+.stairs {
+background-color: #053c5e;
+grid-column: 2/7;
+grid-row: 5/8;
+box-shadow: 5px 5px 10px #6f7364;
+padding: 15px ;
+margin: 10px;
+}
+.stairs img {
+display: block;
+width: 100%;
+height: auto;
+}
+.stairs p{
+Float: center ;
+}
+
+.happy {
+background-color: #a31621;
+grid-column: 2/7;
+grid-row: 5/8;
+box-shadow: 5px 5px 10px #6f7364;
+padding: 15px ;
+margin: 10px;
+}
+.happy img {
+display: block;
+width: 100%;
+height: auto;
+}
+.happy p{
+Float: center;
+}
+
+footer {
+display: grid;
+grid-template-columns: 150px auto;
+grid-template-rows: 150px auto;
+background-color: #053c5e;
+color: aliceblue;
+font-size: 1.2rem;
+padding:15px ;
+margin: 5px;
+align-items: center;
+text-align: center;
+}
+footer .social img {
+padding-top: 15px;
+margin: 10px;
+width: 50px;
+align-items: center ;
+margin: 0;
+padding:0;
+}
+footer a {
+color: azure;
+text-decoration: none;
+
+}
+footer p a:hover {
+background-color: rgb(46, 11, 11);
+color: rgb(221, 217, 217);
+text-decoration: underline;
+}
+{
     
     margin: 0 auto;
     max-width: 1600px;
