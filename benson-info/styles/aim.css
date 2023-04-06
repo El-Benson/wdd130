@@ -70,7 +70,7 @@ body {
   box-shadow: 5px 5px 10px #6f7364;
   padding: 15px ;
   margin: 10px;
-  position: relative; 
+  
 }
 .eye img {
   display: block;
@@ -94,7 +94,7 @@ body {
    padding: 15px ;
    margin: 10px;
    height: 200%; 
-   position: absolute; 
+   
 }
 .three img {
   display: block;
