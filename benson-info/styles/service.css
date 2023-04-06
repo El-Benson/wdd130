@@ -90,6 +90,7 @@ body {
 
 .container {
     width: 200% 
+    height: 200vh; 
     background-color: #ffffff;
     display: flex; 
     align-content: center; 
