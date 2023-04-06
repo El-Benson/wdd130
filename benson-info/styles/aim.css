@@ -27,13 +27,13 @@ width: 80px;
 }
 
 header {
-background-color: #bd222a;
-color: brown;
 display: grid;
 grid-template-columns: 150px auto;
 grid-template-rows: 150px auto;
 background-color: #bd222a;
+color: brown;
 align-items: center;
+
 
 
 }
