@@ -84,6 +84,7 @@ body {
     display: flex; 
     align-items: center; 
     justify-content: center; 
+    
 }
 
 .three {
@@ -103,6 +104,11 @@ body {
    align-item: center; 
    justify-content: center; 
    float: center; 
+   position: absolute; 
+   right: 0; 
+   left: 0;
+   top: 0; 
+   
    
 }
 .three img {
