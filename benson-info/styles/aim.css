@@ -31,7 +31,6 @@ display: grid;
 grid-template-columns: 150px auto;
 grid-template-rows: 150px auto;
 background-color: #bd222a;
-color: brown;
 align-items: center;
 
 
@@ -102,8 +101,7 @@ padding: 15px ;
 margin: 10px;
 width: 50%; 
 height: 100hv; 
-display: flex; 
-flaot: center; 
+ 
 }
 .three img {
 display: block;
