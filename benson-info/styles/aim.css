@@ -104,6 +104,7 @@ height: 100hv;
 justify-item: center; 
 justify-content: center; 
 float: center;
+margin: 0 auto; 
 }
 
 .three img {
