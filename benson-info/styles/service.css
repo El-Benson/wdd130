@@ -102,6 +102,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
+   float: right; 
    
    
 }
@@ -129,6 +130,7 @@ body {
    height: 200vh; 
    display: felx; 
    align-item: center; 
+   float: left; 
    
 }
 .stairs img {
