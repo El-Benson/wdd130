@@ -27,11 +27,14 @@ width: 80px;
 }
 
 header {
+background-color: #bd222a;
+color: brown;
 display: grid;
 grid-template-columns: 150px auto;
 grid-template-rows: 150px auto;
 background-color: #bd222a;
 align-items: center;
+
 
 }
 nav {
@@ -97,6 +100,7 @@ background-color: #db222a;
 box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
+width: 80%; 
 }
 .road img {
 display: block;
