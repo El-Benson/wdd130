@@ -72,45 +72,48 @@ box-sizing: border-box;
 }
 
 
-#one-msg h1,
-#one-msg h2,
-#one-msg h3,
-#one-msg h4 {
+#eye-msg h1,
+#eye-msg h2,
+#eye-msg h3,
+#eye-msg h4 {
 text-align: center;
 color: white;
 }
 
-.one {
+.eye {
 background-color: #053c5e;
 box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
 }
-.one img {
+.eye img {
 display: block;
 width: 100%;
 height: auto;
 }
-.one p{
+.eye p{
 Float: center;
 }
 
-.road {
+.three {
 background-color: #db222a;
 box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
 width: 50%; 
+height: 100hv; 
+display: flex; 
+flaot: center; 
 }
-.road img {
+.three img {
 display: block;
 width: 100%;
 height: auto;
 }
-road p {
+three p {
 float: center ;
 }
-.k {
+.flag {
 background-color: #053c5e;
 grid-column: 2/7;
 grid-row: 5/8;
@@ -118,31 +121,15 @@ box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
 }
-.k img {
+.flag img {
 display: block;
 width: 100%;
 height: auto;
 }
-.k p{
+.flag p{
 Float: center ;
 }
 
-.ladder {
-background-color: #a31621;
-grid-column: 2/7;
-grid-row: 5/8;
-box-shadow: 5px 5px 10px #6f7364;
-padding: 15px ;
-margin: 10px;
-}
-.ladder img {
-display: block;
-width: 100%;
-height: auto;
-}
-.ladder p{
-Float: center;
-}
 
 footer {
 display: grid;
