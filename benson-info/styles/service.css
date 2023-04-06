@@ -27,7 +27,7 @@ width: 80px;
 }
 
 header {
-background-color: #bd222a;
+background-color: #db222a;
 color: brown;
 display: grid;
 grid-template-columns: 150px auto;
@@ -102,9 +102,7 @@ padding: 15px ;
 margin: 10px;
 width: 50%; 
 height: 200vh; 
-display:flex;
-position: relative; 
-float: right; 
+
 
 }
 .tech img {
@@ -123,9 +121,6 @@ box-shadow: 5px 5px 10px #6f7364;
 padding: 15px ;
 margin: 10px;
 height: 200vh;
-display: flex;
-position: absolute;
-float: left; 
 }
 .stairs img {
 display: block;
