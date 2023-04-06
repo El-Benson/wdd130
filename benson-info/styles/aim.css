@@ -80,7 +80,7 @@ body {
 .eye p{
  Float: center;
 }
-. section {
+.container {
     display: flex; 
     align-items: center; 
     justify-content: center; 
