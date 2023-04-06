@@ -102,9 +102,10 @@ margin: 10px;
 width: 50%; 
 height: 200vh; 
 margin-left: auto;
-
-
-
+}
+.container {
+    display: flex;
+    backgrond-color: gray; 
 }
 .tech img {
 display: block;
