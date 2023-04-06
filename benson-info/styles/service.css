@@ -107,6 +107,8 @@ body {
   display: block;
   width: 100%;
   height: auto;
+  justify-content: center; 
+  align-item: center; 
 }
 .tech p{
    float: center ;
