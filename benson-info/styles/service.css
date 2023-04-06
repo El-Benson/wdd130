@@ -124,6 +124,7 @@ body {
   display: flex; 
   align-items: right; 
   position: relative; 
+  top: 0; 
 }
 .stairs img {
   display: block;
