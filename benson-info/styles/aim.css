@@ -101,8 +101,11 @@ padding: 15px ;
 margin: 10px;
 width: 50%; 
 height: 100hv; 
- 
+justify-item: center; 
+justify-content: center; 
+float: center;
 }
+
 .three img {
 display: block;
 width: 100%;
