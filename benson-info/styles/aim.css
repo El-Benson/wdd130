@@ -94,7 +94,9 @@ body {
    padding: 15px ;
    margin: 10px;
    height: 200vh; 
-   float: center; 
+   Display: felx; 
+   align-item: center; 
+   justify-content: center; 
    
 }
 .three img {
